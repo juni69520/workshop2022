@@ -8,7 +8,7 @@ modal.Modal().modalYesNo()
 
 ran = ''.join(random.choices(string.ascii_uppercase + string.digits, k = 10)) 
 WebcamDetect = webcamDetect.WebcamDetect()
-
+WebcamDetect.createImgFolder()
 WebcamDetect.takePicture(ran, 'daily')
 
 while True:

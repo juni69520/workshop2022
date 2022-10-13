@@ -38,3 +38,12 @@ class WebcamDetect:
         print(face_analysis['emotion'])
         insertData.insert(face_analysis['emotion'], table)
         os.remove(img_name)
+        
+        
+    def createImgFolder(self):
+        path = "./img"
+        isExist = os.path.exists(path)
+        if not isExist:
+            # Create a new directory because it does not exist
+            os.makedirs(path)
+            print("The new directory is created!")
