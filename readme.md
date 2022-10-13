@@ -19,3 +19,12 @@ __Groupe 7 :__
 * Titouan ESCORNEBOUEU
 * Quentin LEBORGNE
 * Quentin VIEGAS
+
+__Ressources :__
+
+
+* [Détection utilisation caméra](https://stackoverflow.com/questions/72907515/winreg-python-know-which-webcam-is-being-used)
+* [Prendre une capture de la caméra](https://pypi.org/project/ecapture/)
+* [Utilisation de la modal](https://www.youtube.com/watch?v=7djjMC7ztUY&ab_channel=AsimCode)
+* [Existence d'un dossier](https://www.geeksforgeeks.org/python-os-makedirs-method/)
+* [Connection, insertion BDD](https://www.postgresqltutorial.com/postgresql-python/insert/) 
