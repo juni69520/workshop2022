@@ -6,7 +6,7 @@ __Description :__ Afin d'assurer  le bien être des collaborateurs et d'optimise
 Le but est d'établir une tendance pour optimiser le temps de réunion et garder l'attention des collaborateurs pendant une période optimale.
 
 
-__Instalation des dépendances :__ 
+__Installation des dépendances :__ 
 
 Pour installer les dépendances, vous devez utiliser la commande ```pip install -r requirements.txt```
 
