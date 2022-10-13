@@ -1,0 +1,5 @@
+deepface==0.0.75
+ecapture==2.0.2
+pandas==1.5.0
+psycopg2==2.9.4
+python-dotenv==0.21.0
